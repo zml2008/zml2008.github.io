@@ -1,0 +1,9 @@
+---
+published: true
+title: Test Post
+layout: post
+---
+I'm testing out Tinypress -- it's pretty cool. Hopefully it'll be helpful.
+
+# Heading
+This is a subsection
